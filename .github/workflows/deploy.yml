@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+name : Deploy to GitHub Pages
+>>>>>>> 78e798a4cb4c9c83a6030da92cba128ec5386256
 on :
 push :
 branches : [ " main " ]
